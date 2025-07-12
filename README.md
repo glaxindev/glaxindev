@@ -1,8 +1,8 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://readme-stats-rho-wheat.vercel.app/api?username=realglaxin&theme=aura&hide_border=true&include_all_commits=true&count_private=false" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats-one-phi.vercel.app?user=realglaxin&theme=aura&hide_border=true" width="50%" />
-  <img src="https://readme-stats-rho-wheat.vercel.app/api/top-langs/?username=realglaxin&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://readme-stats-rho-wheat.vercel.app/api?username=glaxindev&theme=aura&hide_border=true&include_all_commits=true&count_private=false" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats-one-phi.vercel.app?user=glaxindev&theme=aura&hide_border=true" width="50%" />
+  <img src="https://readme-stats-rho-wheat.vercel.app/api/top-langs/?username=glaxindev&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <!-- Tech Stack -->
@@ -17,18 +17,18 @@
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordlookup.com/user/620569922870837253) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realglaxin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/realglaxin) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mail@glaxindev.xyz) [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.glaxindev.xyz)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordlookup.com/user/620569922870837253) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realglaxin) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/realglaxin) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mail@glaxin.dev) [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.glaxin.dev)
 
 </div>
 
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/realglaxin/realglaxin/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/glaxindev/glaxindev/blob/output/github-snake-dark.svg)
 </div>
 
 <!-- Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=realglaxin&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=glaxindev&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
